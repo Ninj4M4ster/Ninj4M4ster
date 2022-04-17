@@ -1,6 +1,6 @@
 # About me  
 <p>
-My name is Jakub Drzewiecki. <br>
+  My name is <b>Jakub Drzewiecki</b>. <br>
 I am student at <b>Wroclaw University of Science</b> and i study <b>Computer science and algorithms</b>.<br>
   I am also a member of student scientific association called <b>PWR Racing Team</b>. 
 </p>
