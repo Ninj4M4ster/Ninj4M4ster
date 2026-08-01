@@ -20,7 +20,7 @@ Previously, I led the Software Department of **PWR Racing Team**, where I worked
 
 ### Nokia (Nov 2024 – Present)
 
-**Working Student – C++ Developer**
+**C++ Software Developer**
 
 * Developing features for telecom antenna processing units
 * Building unit and component tests
