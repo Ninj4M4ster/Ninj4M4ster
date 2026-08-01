@@ -2,7 +2,7 @@
 
 M.Sc. student in **Artificial Intelligence** at **Wrocław University of Science and Technology**.
 
-I'm a **Working Student at Nokia**, where I develop C++ software for telecommunication infrastructure, focusing on networking software, testing, performance, and build systems.
+I'm a **Software Developer at Nokia**, where I develop C++ software for telecommunication infrastructure, focusing on networking software, testing, performance, and build systems.
 
 Previously, I led the Software Department of **PWR Racing Team**, where I worked on autonomous Formula Student race cars. My work included model predictive movement control, embedded systems, simulation, and autonomous driving software in general.
 
